@@ -4,8 +4,7 @@
 <h3 align="center">I am passionate to learn new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kdsharma2611&label=Profile%20views&color=0e75b6&style=flat" alt="kdsharma2611" /> </p>
-<img align="right" alt="Coding" width="400" src="![tenor](https://user-images.githubusercontent.com/91654095/179252342-36136a2e-407e-49f4-9e66-072a320b1dea.gif)
-">
+<img align="right" alt="Coding" width="400" src="blob:https://tenor.com/d054e50a-9c32-43c2-9630-4b0a80686c86">
 
 - 🌱 I’m currently learning **Computer Science with Specialization with IBM**
 
