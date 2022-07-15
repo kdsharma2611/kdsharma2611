@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kuldeep-sharma-a9730a20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kuldeep-sharma-a9730a20b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kuldeep-sharma-a9730a20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kuldeep-sharma-a9730a20b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1FQGox0aRryNbXFizFagww%3D%3D" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/kdsharma2611/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kdsharma2611/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/iamkdsharmaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iamkdsharmaa/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/kdsharma2611" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kdsharma2611" height="30" width="40" /></a>
