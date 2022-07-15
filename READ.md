@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Sharma</h1>
 <h3 align="center">I am passionate to learn new things.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kdsharma2611&label=Profile%20views&color=0e75b6&style=flat" alt="kdsharma2611" /> </p>
+
 - 🌱 I’m currently learning **Computer Science with Specialization with IBM**
 
-- 📫 How to reach me **kdsharma2611@gmailcom**
+- 📫 How to reach me **kdsharma2611@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1f4OMiQhlMAsSyooihlD2RZHjOTpYX-CD/view?usp=sharing](https://drive.google.com/file/d/1f4OMiQhlMAsSyooihlD2RZHjOTpYX-CD/view?usp=sharing)
 
